@@ -41,3 +41,10 @@ This project Investigates the spatial distribution of crime accross Leeds and it
   - crime data only represents a single month (April 2024)
   - Possible underreporting of crime
   - Time frame inconsistency between crime and IMD datasets
+ 
+  ## Gen Ai ACknowledgement
+
+I have used Gen AI only for the specific purposes outlined in my acknowledgements
+
+I acknowledge the use of Copilot (Microsoft, https://m365.cloud.microsoft/chat) to
+compile my initial notes and to proofread my final draft before submission by the deadline.
